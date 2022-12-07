@@ -24,6 +24,8 @@ cmake_install.cmake
 cmake_uninstall.cmake
 
 # Generated files
+[Bb]in/
+[Bb]in-int/
 docs/Doxyfile
 docs/html
 docs/warnings.txt
